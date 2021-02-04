@@ -14,7 +14,8 @@ I am calm and hardworking, my goal is to master Javascript, HTML, CSS and more. 
 Initial programming skills
 ***
 ## Code examples
-```# let i = 3;
+```
+let i = 3;
 while (i) { // когда i будет равно 0, условие станет ложным, и цикл остановится
   alert( i );
   i--;
