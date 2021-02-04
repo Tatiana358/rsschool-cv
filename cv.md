@@ -24,7 +24,7 @@ while (i) { // когда i будет равно 0, условие станет
 ## Experience
 ***
 ## Education
-Maxim Tank Belarusian State University
+Maxim Tank Belarusian State University - 2010
 ***
 ## English
 English level is pre-intermediate
